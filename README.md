@@ -1,25 +1,36 @@
 # Hi, I'm Sachi 👋
 
-🎓 Student
+I'm an 18-year-old student exploring AI and technology to solve real-world problems.
 
-💻 Exploring AI, Python & Technology
+Curiosity has been the driving force behind my learning. I enjoy understanding how things work—whether it's programming, AI, robotics, or solving real-world challenges.
 
-🤖 Interested in Robotics & Research
+## 🌱 Currently
 
-🌱 Currently learning and building projects
+- 🎓 Starting college
+- 💻 Learning Python, SQL & Web Development
+- 🤖 Exploring AI and emerging technologies
+- 🚀 Building projects and learning in public
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - Python
 - SQL
 - HTML
 - CSS
+- Scratch
+- Canva
 
-## Projects
+## 📌 Projects
 
-- 📚 Study Planner & Reminder System
-- 🌐 AI-Themed Website
-- 🎮 Scratch Game
+Coming soon...
+
+## 🎯 Interests
+
+- Artificial Intelligence
+- Robotics
+- Research
+- Problem Solving
+- Emerging Technologies
 
 ## Connect
 
