@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sachi 👋
 
-<!--
-**sachipandey/sachipandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student
 
-Here are some ideas to get you started:
+💻 Exploring AI, Python & Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in Robotics & Research
+
+🌱 Currently learning and building projects
+
+## Tech Stack
+
+- Python
+- SQL
+- HTML
+- CSS
+
+## Projects
+
+- 📚 Study Planner & Reminder System
+- 🌐 AI-Themed Website
+- 🎮 Scratch Game
+
+## Connect
+
+LinkedIn- https://www.linkedin.com/in/sachi-pandey/
+
+X- https://x.com/sachipandey_
+
